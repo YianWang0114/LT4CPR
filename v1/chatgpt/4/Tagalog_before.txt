@@ -1,0 +1,199 @@
+Kumusta ka? (How are you?)
+
+Ako ay mabuti. (I am fine.)
+
+Ano ang pangalan mo? (What is your name?)
+
+Ang pangalan ko ay Maria. (My name is Maria.)
+
+Saan ka nakatira? (Where do you live?)
+
+Ako ay nakatira sa Maynila. (I live in Manila.)
+
+Magkano ito? (How much is this?)
+
+Ito ay limampung piso. (This is fifty pesos.)
+
+Anong oras na? (What time is it?)
+
+Alas dos na. (It's two o'clock.)
+
+Saan ang CR? (Where is the restroom?)
+
+Nasaan ang susi ko? (Where are my keys?)
+
+Ano ang ginagawa mo? (What are you doing?)
+
+Ako ay nagbabasa ng libro. (I am reading a book.)
+
+Saan tayo kakain? (Where will we eat?)
+
+Magkano ang pamasahe? (How much is the fare?)
+
+Pwede mo ba akong tulungan? (Can you help me?)
+
+Ano ang gusto mong kainin? (What do you want to eat?)
+
+Gusto ko ng adobo. (I want adobo.)
+
+Saan ka nagtatrabaho? (Where do you work?)
+
+Ako ay nagtatrabaho sa bangko. (I work in a bank.)
+
+Ilan taon ka na? (How old are you?)
+
+Ako ay dalawampu't isang taong gulang. (I am twenty-one years old.)
+
+Saan ka nag-aral? (Where did you study?)
+
+Nag-aral ako sa UP. (I studied at UP.)
+
+May kapatid ka ba? (Do you have siblings?)
+
+Oo, mayroon akong kapatid na lalaki. (Yes, I have a brother.)
+
+Ano ang hilig mo? (What is your hobby?)
+
+Hilig ko ang maglaro ng basketball. (My hobby is playing basketball.)
+
+Nagugutom na ako. (I'm already hungry.)
+
+Kailan tayo aalis? (When will we leave?)
+
+Aalis tayo mamayang hapon. (We will leave later this afternoon.)
+
+Gusto mo bang sumama? (Do you want to come along?)
+
+Sino ang kasama mo? (Who are you with?)
+
+Kasama ko ang aking pamilya. (I am with my family.)
+
+Ano ang paborito mong pagkain? (What is your favorite food?)
+
+Paborito ko ang lechon. (My favorite food is lechon.)
+
+Kailan ang iyong kaarawan? (When is your birthday?)
+
+Ang aking kaarawan ay sa Hunyo. (My birthday is in June.)
+
+Ilang taon na ang anak mo? (How old is your child?)
+
+Apat na taong gulang na ang aking anak. (My child is four years old.)
+
+Sino ang nagluto ng hapunan? (Who cooked dinner?)
+
+Si Nanay ang nagluto ng hapunan. (Mom cooked dinner.)
+
+Ano ang paborito mong pelikula? (What is your favorite movie?)
+
+Paborito ko ang "The Hows of Us." (My favorite movie is "The Hows of Us.")
+
+Sino ang iyong paboritong aktor? (Who is your favorite actor?)
+
+Paborito kong aktor si John Lloyd Cruz. (My favorite actor is John Lloyd Cruz.)
+
+Mahilig ka bang magbasa ng libro? (Do you like to read books?)
+
+Oo, mahilig akong magbasa ng mga libro. (Yes, I like to read books.)
+
+Ano ang binabasa mong libro ngayon? (What book are you reading now?)
+
+Binabasa ko ngayon ang "Noli Me Tangere." (I am reading "Noli Me Tangere" now.)
+
+Sino ang paborito mong manunulat? (Who is your favorite author?)
+
+Paborito kong manunulat si Bob Ong. (My favorite author is Bob Ong.)
+
+Ano ang paborito mong awitin? (What is your favorite song?)
+
+Paborito kong awitin ang "Ikaw." (My favorite song is "Ikaw.")
+
+Sino ang paborito mong mang-aawit? (Who is your favorite singer?)
+
+Paborito kong mang-aawit si Lea Salonga. (My favorite singer is Lea Salonga.)
+
+Ano ang paborito mong kulay? (What is your favorite color?)
+
+Paborito kong kulay ang asul. (My favorite color is blue.)
+
+Saan mo gustong magbakasyon? (Where do you want to go on vacation?)
+
+Gusto kong magbakasyon sa Palawan. (I want to go on vacation in Palawan.)
+
+Ano ang trabaho ng iyong ama? (What does your father do for a living?)
+
+Ang aking ama ay isang doktor. (My father is a doctor.)
+
+Ano ang trabaho ng iyong ina? (What does your mother do for a living?)
+
+Ang aking ina ay isang guro. (My mother is a teacher.)
+
+Kailan tayo magkikita ulit? (When will we meet again?)
+
+Magkikita tayo sa susunod na linggo. (We will meet again next week.)
+
+Ilang taon na ang iyong asawa? (How old is your spouse?)
+
+Ang aking asawa ay tatlumpu't dalawang taong gulang. (My spouse is thirty-two years old.)
+
+Saan kayo ikakasal? (Where will you get married?)
+
+Ikakasal kami sa Simbahan ng Baclaran. (We will get married at Baclaran Church.)
+
+Kailan ang kasal mo? (When is your wedding?)
+
+Ang kasal ko ay sa Disyembre. (My wedding is in December.)
+
+Ano ang kursong tinapos mo? (What course did you finish?)
+
+Tinapos ko ang kursong Batsilyer sa Agham. (I finished a Bachelor's degree in Science.)
+
+Saan ka nagtatrabaho ngayon? (Where are you working now?)
+
+Nagtatrabaho ako sa isang kompanya sa Makati. (I work in a company in Makati.)
+
+Ilang taon ka na nagtatrabaho? (How many years have you been working?)
+
+Apat na taon na akong nagtatrabaho. (I have been working for four years.)
+
+Saan ka pupunta ngayon? (Where are you going now?)
+
+Pupunta ako sa palengke. (I'm going to the market.)
+
+Ano ang bibilhin mo sa palengke? (What will you buy at the market?)
+
+Bibilhin ko ang mga kailangan natin para sa hapunan. (I will buy what we need for dinner.)
+
+Kailan ka uuwi? (When will you come home?)
+
+Uuwi ako ng ala-sais. (I will come home at six o'clock.)
+
+Mahilig ka bang magluto? (Do you like to cook?)
+
+Oo, mahilig akong magluto. (Yes, I like to cook.)
+
+Ano ang paborito mong lutuin? (What is your favorite dish to cook?)
+
+Paborito kong lutuin ang sinigang na baboy. (My favorite dish to cook is pork sinigang.)
+
+Ano ang iyong plano sa buhay? (What are your plans in life?)
+
+Plano kong magpatayo ng sarili kong negosyo. (I plan to start my own business.)
+
+Ano ang pangarap mo sa buhay? (What is your dream in life?)
+
+Pangarap kong maging matagumpay sa buhay. (I dream of being successful in life.)
+
+Mahal mo ba ako? (Do you love me?)
+
+Oo, mahal kita. (Yes, I love you.)
+
+Ano ang gusto mong regalo? (What gift do you want?)
+
+Gusto kong regalo ay isang bagong cellphone. (I want a new cellphone as a gift.)
+
+Ilang taon ka na? (How old are you?)
+
+Ako'y labing-apat na taong gulang. (I am fourteen years old.)
+
+Mahal kita. (I love you.)

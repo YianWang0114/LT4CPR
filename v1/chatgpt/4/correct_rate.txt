@@ -1,0 +1,42 @@
+Chichewa:15
+Bemba:85
+Correct rate: 85.0
+
+Tagalog:8
+Bicolano:92
+Correct rate: 92.0
+
+Cebuano:100
+Correct rate: 100.0
+
+Spanish:3
+Chavacano:97
+Correct rate: 97.0
+
+Hiligaynon:100
+Correct rate: 100.0
+
+Ilokano:100
+Correct rate: 100.0
+
+Tagalog:5
+Kapampangan:95
+Correct rate: 95.0
+
+Maranao:20
+Correct rate: 100.0
+
+Tagalog:8
+Pangasinan:90
+English:2
+Correct rate: 90.0
+
+Portuguese:100
+Correct rate: 100.0
+
+Filipino:100
+Correct rate: 100.0
+
+Waray-Waray:100
+Correct rate: 100.0
+

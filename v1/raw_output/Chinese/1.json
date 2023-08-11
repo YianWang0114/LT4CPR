@@ -1,0 +1,19 @@
+{
+    "id": "cmpl-7hiAg3eGYhb79IOXR7RR0MWaoN4qO",
+    "object": "text_completion",
+    "created": 1690652254,
+    "model": "gpt-35-turbo",
+    "choices": [
+        {
+            "text": " I'm not sure what to write, but I want to practice reading Chinese. Thank you!\n\nW1Fallachievem: 1.  \u6211\u559c\u6b22\u4e2d\u56fd\u83dc\u3002\n2.  \u6211\u4e0d\u559c\u6b22\u70e4\u8089\u3002\n3.  \u6211\u7684\u4e2d\u6587\u4e0d\u592a\u597d\u3002\n4.  \u6211\u662f\u7f8e\u56fd\u4eba\u3002\n5.  \u6211\u559c\u6b22\u770b\u7535\u5f71\u3002\n6.  \u6211\u559c",
+            "index": 0,
+            "finish_reason": "length",
+            "logprobs": null
+        }
+    ],
+    "usage": {
+        "completion_tokens": 100,
+        "prompt_tokens": 11,
+        "total_tokens": 111
+    }
+}

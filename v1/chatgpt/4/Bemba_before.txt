@@ -1,0 +1,100 @@
+1.	Bwanji? - How are you?
+2.	Ndi bwino, natotela. - I'm fine, thank you.
+3.	Iseni ine bwino. - Come closer to me.
+4.	Nalitemwa ukupika. - I love cooking.
+5.	Abakulu tabatila bana. - Elders do not lie to children.
+6.	Uyo mucita? - Who is that?
+7.	Njipusheko inshita. - Show me the way.
+8.	Fumani iyo icamba. - Remove that chair.
+9.	Ichalo chesu chikulu. - Our country is big.
+10.	Lesa apale ubumi bwacu. - God bless our lives.
+11.	Njipempako amafunde. - Give me the books.
+12.	Uwacita nsoni. - You make me proud.
+13.	Ndefwaya ukuya ku sukulu. - I want to go to school.
+14.	Nalikwata insofu. - I have a cold.
+15.	Ndefwaya ukufwala icitenge. - I want to wear a traditional cloth.
+16.	Cikali cabili pa luse. - Twice a day.
+17.	Uyo mwine chipelwa. - He is the owner of the store.
+18.	Njeba ukusambilila. - Teach me to dance.
+19.	Umwana wakwata umutwe mwabene. - The child is clever.
+20.	Ndetasha pa nchito. - I work at a job.
+21.	Tulefwaya ulupiya. - We want money.
+22.	Mwaliteta na bwanji? - How did you spend your day?
+23.	Cilumba chalitemwa. - The bird is loved.
+24.	Njishibe ifintu pano. - Put things here.
+25.	Ninkutasha ukupela. - I thank you for coming.
+26.	Icikwanka bacimwena kumampalanya. - The one who gets burned by milk blows on yogurt.
+27.	Ndefwaya icisungu ici. - I want this orange.
+28.	Twalilomba ukusambilila. - We asked to dance.
+29.	Imisebo ilikulu. - The roads are big.
+30.	Nkupempa amatako. - I’m asking for eggs.
+31.	Ichalo chesu chilefwaya amano. - Our country needs wisdom.
+32.	Ncito yobe ilikulanga. - Your work pleases me.
+33.	Abanandi balefwaya ukufwa. - My siblings want to die.
+34.	Njishibe ifintu fyandi. - Put my things.
+35.	Mwalishiba ukulanga. - You know how to sing.
+36.	Bantu balelala. - People are sleeping.
+37.	Insala taifwaya. - Hunger doesn’t want.
+38.	Ndiye wandi. - That’s mine.
+39.	Akasuba kalifika. - The morning has come.
+40.	Fimbi yaletelela. - The rain is drizzling.
+41.	Amenshi yalipwa. - The water is finished.
+42.	Ninshi mwalacita? - What have you done?
+43.	Ninshi wakwata? - What do you have?
+44.	Tubombeko. - Let’s work.
+45.	Nkupempa icikwasa. - I’m asking for a spoon.
+46.	Ifyakulya fyandi. - My food.
+47.	Tulandileni. - Let’s wait.
+48.	Akasuba kakulu. - The big morning.
+49.	Ndetasha ukwakumyeba. - I am happy to know you.
+50.	Ncilola inshita. - I am looking for the way.
+51.	Alabebefye. - He just looks.
+52.	Ninshi walelanda? - What are you saying?
+53.	Yayi, cimo cimoneka. - No, something seems wrong.
+54.	Uwakwata ulupiya. - You have the money.
+55.	Twalatempa ukusambilila. - We tried to dance.
+56.	Mucani umusamba. - Bring me the broom.
+57.	Cilumba calefwaya ukufwa. - The bird wants to die.
+58.	Cimo cimo cakucita icibele. - Something makes you sick.
+59.	Mwebombeko! - Let's work!
+60.	Mwebabili twafuma. - Both of us are going.
+61.	Ndefwaya ukuenda. - I want to leave.
+62.	Mulelanda bwanji? - What are you talking about?
+63.	Twasambilila bwino. - We danced well.
+64.	Ubushiku bwa bulanda. - The night is long.
+65.	Pa cililo tulelanda. - At the funeral, we talk.
+66.	Pa nchito takwafwa. - At work, there’s no death.
+67.	Akasuba kapwa. - Morning has broken.
+68.	Ndiwe mukulu. - You are the elder.
+69.	Nkupempa iwe. - I’m asking you.
+70.	Bwanji bubi? - How badly?
+71.	Njeba icibemba. - Teach me Bemba.
+72.	Ncushe inshila. - Clean the path.
+73.	Ba mfwenu balelanda. - Your friends are talking.
+74.	Akasuba kapyana. - The morning is cold.
+75.	Ndefwaya ukulanga. - I want to sing.
+76.	Mulemyeba ati? - What are you telling them?
+77.	Iyo ifintu ifipwa. - Those things are finished.
+78.	Ubushiku bwesu. - Our night.
+79.	Ubufi tabutala. - Lies don’t pay.
+80.	Njeba ukulima. - Teach me to farm.
+81.	Iseni ukufwa. - Come closer to hear.
+82.	Uyo mukwai. - That one, madam.
+83.	Ilyashi lyandi. - My story.
+84.	Akasuba kandalama. - The morning is bright.
+85.	Bafyashi bafwilisha. - Parents educate.
+86.	Njeba ukwakumyeba. - Teach me to know you.
+87.	Ukwenda kwa mulungu. - The love of God.
+88.	Lufyengo lwandi. - My tribe.
+89.	Iyo ifintu ifyakulya. - Those are things for eating.
+90.	Ulekwata inshila. - You have the path.
+91.	Twalefwaya ukusambilila. - We wanted to dance.
+92.	Imbwa yalelila. - The dog is barking.
+93.	Akantu kafwilisha. - The thing educates.
+94.	Ninshi takwaba? - What is not there?
+95.	Mwabombeni bwino. - You worked well.
+96.	Inshila ilikumusebo. - The path is on the road.
+97.	Njipempa icisense. - Give me the plate.
+98.	Mucani ichimbusu. - Bring me the toilet.
+99.	Ilyashi lyandi lifya ukutemwa. - My story is about love.
+100.	Icikwanka bacimwena kumampalanya. - He who has been scalded by hot milk will start blowing even on the curds before he eats them. (Bemba Proverb)
