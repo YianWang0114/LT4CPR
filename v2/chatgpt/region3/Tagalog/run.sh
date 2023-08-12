@@ -1,5 +1,5 @@
 #!/bin/sh
-file=300
+file=91000
 while true; do
     timeout 60s python3 validate.py -c $file -s 1
     if [ $? -eq 124 ]; then
@@ -89,3 +89,93 @@ while true; do
         break
     fi
 done
+
+# while true; do
+#     timeout 60s python3 validate.py -c $file -s 11
+#     if [ $? -eq 124 ]; then
+#         echo "The python script took longer than 1 minute. Restarting..."
+#     else
+#         break
+#     fi
+# done
+
+# while true; do
+#     timeout 60s python3 validate.py -c $file -s 12
+#     if [ $? -eq 124 ]; then
+#         echo "The python script took longer than 1 minute. Restarting..."
+#     else
+#         break
+#     fi
+# done
+
+# while true; do
+#     timeout 60s python3 validate.py -c $file -s 13
+#     if [ $? -eq 124 ]; then
+#         echo "The python script took longer than 1 minute. Restarting..."
+#     else
+#         break
+#     fi
+# done
+
+# while true; do
+#     timeout 60s python3 validate.py -c $file -s 14
+#     if [ $? -eq 124 ]; then
+#         echo "The python script took longer than 1 minute. Restarting..."
+#     else
+#         break
+#     fi
+# done
+
+# while true; do
+#     timeout 60s python3 validate.py -c $file -s 15
+#     if [ $? -eq 124 ]; then
+#         echo "The python script took longer than 1 minute. Restarting..."
+#     else
+#         break
+#     fi
+# done
+
+# while true; do
+#     timeout 60s python3 validate.py -c $file -s 16
+#     if [ $? -eq 124 ]; then
+#         echo "The python script took longer than 1 minute. Restarting..."
+#     else
+#         break
+#     fi
+# done
+
+# while true; do
+#     timeout 60s python3 validate.py -c $file -s 17
+#     if [ $? -eq 124 ]; then
+#         echo "The python script took longer than 1 minute. Restarting..."
+#     else
+#         break
+#     fi
+# done
+
+# while true; do
+#     timeout 60s python3 validate.py -c $file -s 18
+#     if [ $? -eq 124 ]; then
+#         echo "The python script took longer than 1 minute. Restarting..."
+#     else
+#         break
+#     fi
+# done
+
+# while true; do
+#     timeout 60s python3 validate.py -c $file -s 19
+#     if [ $? -eq 124 ]; then
+#         echo "The python script took longer than 1 minute. Restarting..."
+#     else
+#         break
+#     fi
+# done
+
+# while true; do
+#     timeout 60s python3 validate.py -c $file -s 20
+#     if [ $? -eq 124 ]; then
+#         echo "The python script took longer than 1 minute. Restarting..."
+#     else
+#         break
+#     fi
+# done

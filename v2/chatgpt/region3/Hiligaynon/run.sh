@@ -1,5 +1,5 @@
 #!/bin/sh
-file=9900
+file=91000
 while true; do
     timeout 60s python3 validate.py -c $file -s 1
     if [ $? -eq 124 ]; then
