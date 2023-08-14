@@ -23,8 +23,8 @@ input = ''
 for l in lines[10*(args.session-1):10*args.session]:
   input += l
 
-prompt = '''I have 10 sentences. Can you tell me the language of each? You should answer the languague name only.
-            If a sentence belong to multiple lanaguges, you can write it as L1/L2 where L1, L2 are two languages. The 10 sentences are:\n {}
+prompt = '''I have 10 sentences. Can you tell me the language of each? You should answer the language name only.
+            If a sentence belong to multiple languages, you can write it as L1/L2 where L1, L2 are two languages. The 10 sentences are:\n {}
             '''.format(input)
 response = openai.ChatCompletion.create(
 engine="turbo35",
