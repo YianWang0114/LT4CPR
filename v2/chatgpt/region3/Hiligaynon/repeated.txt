@@ -1,0 +1,21 @@
+Ano ang oras subong?	1
+Diin ang eskwelahan?	1
+Pila ka oras ang byahe?	1
+Ayaw pagtulog sa salog.	1
+Ayaw pagtulok sa akin sini nga paagi.	1
+Palihug kanta sang matawhay.	1
+Ayaw paghambal sang malain.	1
+Ang pispis nagakanta sa kahoy.	2
+Palihug palapit diri.	1
+Palihug paabri ang gate.	1
+Ginapalangga ko ang akon pamilya.	1
+Ayaw pagkaon sang expired nga pagkaon.	1
+Ayaw paghulat pa bwas.	1
+Nakakita ka bala sang akon cellphone?	1
+Palihug hatagi ako sang isa ka baso sang tubig.	1
+Ginpamangkot ko siya kon ano ang iya ginabatyag.	1
+Ayaw paghambal sang malakas sa library.	1
+Ano ang ginakain mo sa aga?	1
+Ano ang imo ginahulat?	1
+Nakita mo bala ang akon shades?	1
+Ano ang imo ginabasa karon?	1

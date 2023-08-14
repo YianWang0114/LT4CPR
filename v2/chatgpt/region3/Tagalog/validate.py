@@ -17,7 +17,7 @@ args = parser.parse_args()
 
 if not os.path.exists("verification"):
   os.makedirs("verification")
-lines = open(str(args.count) + '.txt').readlines()
+lines = open('raw/'+str(args.count) + '.txt').readlines()
 output = []
 input = ''
 for l in lines[10*(args.session-1):10*args.session]:

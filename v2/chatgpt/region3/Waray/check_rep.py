@@ -25,8 +25,3 @@ for s in files:
 with open('repeated.txt', "w") as f2:
     for key, value in repeated.items():
         f2.writelines(key+"\t"+str(value)+'\n')
-
-
-
-
-

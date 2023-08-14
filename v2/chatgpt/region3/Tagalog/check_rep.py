@@ -1,11 +1,15 @@
 import pdb
 from collections import defaultdict
-senList = ['200']
+from pathlib import Path
+import os
+# senList = ['200']
 
 repeated = {}
 sent = []
-for s in senList:
-    with open(s + '.txt') as f:
+directory = Path.cwd()
+files = os.listdir(str(directory)+'/raw')
+for s in files:
+    with open(str(directory)+'/raw/'+str(s)) as f:
         lines = f.readlines()
         for l in lines:
             l = l.strip('\n')
