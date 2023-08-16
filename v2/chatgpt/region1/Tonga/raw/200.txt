@@ -1,0 +1,200 @@
+Ni bwanji? - How are you?
+Ndili bwino, natotela. - I am fine, thank you.
+Ni chani icho ochita? - What are you doing?
+Ndiyenda kumakuti. - I am going to the market.
+Nimisele mukwai. - I am waiting for you.
+Ni ndani icho? - Who is that?
+Ifyo ndisele ni fyakudya. - What I want is food.
+Nalumba kuseka. - I love to laugh.
+Ingombe zilili kumunda. - The cows are in the field.
+Ichalo chilalema. - The country is peaceful.
+Mwana akalila. - The child is crying.
+Mulimu yonse. - You are everywhere.
+Chikondi chilila. - Love is alive.
+Musiku ulufile. - The day is over.
+Nifuna kudya. - I want to eat.
+Imbwili yakutemwa. - The monkey is loved.
+Mayi yakwata namalambo. - The water has waves.
+Ichisushi chilamba. - The bird sings.
+Ichintu changu chilapwa. - My thing is lost.
+Ifintu fileka mbebo. - Things change quickly.
+Miti ilinga munda. - Trees make a forest.
+Ifishimu finakutemwa. - The phone is loved.
+Ubushiku bwalipwa. - The night was lost.
+Ichalo chilala mwiinga. - The country is in unity.
+Njala yandikwata. - I am hungry.
+Nifuna kuenda kulota. - I want to go to sleep.
+Nyama ilakutemwa. - Meat is delicious.
+Umutima wandi ulila. - My heart is alive.
+Mbuya akalila. - The grandmother is crying.
+Nali nkala mukwai. - I was with you.
+Ifintu fileka mbebo. - Things change quickly.
+Nyimbo yandi yakulila. - My song is long.
+Ndalama zilili pansaka. - The money is in the bag.
+Nalitemwa kwakubipa. - I was called yesterday.
+Mwana wandi akalila. - My child is crying.
+Akulu akulu bakalila. - The elders are crying.
+Ifintu fyonse filalema. - Everything is peaceful.
+Miti yilila mu munda. - The trees are in the field.
+Ni lala uko. - Sleep there.
+Ifishimu yandi yalapwa. - My phone is lost.
+Nalikwata amashiwi mashilu. - I have a few words.
+Ing'anda yandi yakulila. - My house is big.
+Ubulwele buli pansi. - Sickness is down.
+Bana bandi bakaleka. - My children are laughing.
+Umu mwezi muli mpepo. - The moon is in the sky.
+Ichi chakudya chilakutemwa. - This food is delicious.
+Ubulalo buli mbebo. - The lake is far away.
+Muswelo uli kwiinga. - The gate is closed.
+Ulu shita lulilema. - The rain is cold.
+Ichi chintu chilakwata amano. - This thing has eyes.
+Nalitemwa kwakubika. - I was called to cook.
+Fyakudya fileka mbebo. - The food is getting cold.
+Ni mwane. - It's a child.
+Bana bandi bakaleka. - My children are playing.
+Ubulwele buli pansi. - The sickness is decreasing.
+Ichi chikwela chilakutemwa. - This vehicle is loved.
+Chikwela chandi chakwenda. - My vehicle has left.
+Ichiswelo chilakutemwa. - The dress is beautiful.
+Niwandikwata amano makulu. - You have big eyes.
+Nalikwata ichiselo chilakutemwa. - I have a beautiful dress.
+Umu nyanja muli ifintu fileka. - In the lake, there are moving things.
+Niwandikwata umukwai wakulila. - You have a long journey.
+Nalumba kwaleka. - I love to dance.
+Ulu shita lulilema. - The rain is cold.
+Ichi chintu chilakwata amafupa. - This thing has bones.
+Ubulalo buli panshi. - The lake is below.
+Akulu akulu bakaleka. - The elders are playing.
+Nalitemwa kwakulota. - I was called to sleep.
+Ulu lwele lwalipwa. - The road was lost.
+Umu mwezi muli mpepo. - The moon is in the wind.
+Ubulwele buli mbebo. - The sickness is far.
+Ichalo chilala mwiinga. - The country is united.
+Mbuya akalila. - Grandmother is crying.
+Muswelo uli kwiinga. - The gate is open.
+Bana bandi bakaleka. - My children are playing.
+Umu mwezi muli mpepo. - The moon is in the sky.
+Ubulwele buli pansi. - The sickness is under.
+Bana bakulila. - The kids are big.
+Miti yilila mu munda. - The trees are in the garden.
+Ulu shita lulilema. - The rain is cold.
+Nali nkala mukwai. - I was with you.
+Ifintu fyonse filalema. - Everything is calm.
+Ulu lwele lwalipwa. - The path was lost.
+Mbuya akalila. - The grandmother cries.
+Umu nyanja muli ifintu fileka. - In the lake, there are things moving.
+Fiswelo fitila munda. - The door leads to the garden.
+Nalumba kwaleka. - I love to dance.
+Ulu shita lulilema. - The rain is cold.
+Chikwela chandi chakwenda. - My car has gone.
+Ubulalo buli mbebo. - The lake is far away.
+Nalitemwa kwakulota. - I was called to sleep.
+Fyakudya fileka mbebo. - The food is getting cold.
+Miti yilila mu munda. - The trees stand in the garden.
+Niwandikwata amano makulu. - You have big eyes.
+Ichi chakudya chilakutemwa. - This food is tasty.
+Bana bandi bakaleka. - My kids are playing.
+Ni mwane. - It's a child.
+Nalikwata amashiwi mashilu. - I have a few words.
+Muswelo uli kwiinga. - The gate is open.
+Mbuya akalila. - The grandmother is crying.
+Ubulwele buli mbebo. - The sickness is far.
+Chikwela chandi chakwenda. - My vehicle went.
+Umu mwezi muli mpepo. - The moon is in the sky.
+Miti yilila mu munda. - The trees are in the garden.
+Fyakudya fileka mbebo. - The food is becoming cold.
+Nali nkala mukwai. - I was with you.
+Ing'anda yandi yakulila. - My house is big.
+Ubulwele buli pansi. - Sickness is down.
+Ulu shita lulilema. - The rain is cold.
+Nalitemwa kwakubipa. - I was called yesterday.
+Miti yilila mu munda. - The trees are in the field.
+Bana bandi bakaleka. - My children are laughing.
+Umu mwezi muli mpepo. - The moon is in the wind.
+Ubulwele buli mbebo. - The sickness is distant.
+Ni mwane. - It's a child.
+Niwandikwata amano makulu. - You have big eyes.
+Nalumba kwaleka. - I love to dance.
+Chikwela chandi chakwenda. - My car has departed.
+Ubulalo buli mbebo. - The lake is distant.
+Fyakudya fileka mbebo. - The food is chilling.
+Miti yilila mu munda. - Trees are in the garden.
+Ni lala uko. - Sleep there.
+Ichi chintu chilakwata amafupa. - This thing has bones.
+Umu mwezi muli mpepo. - The moon is in the air.
+Bana bakulila. - The children are big.
+Akulu akulu bakaleka. - The elders are dancing.
+Ichi chikwela chilakutemwa. - This car is beloved.
+Umu mwezi muli mpepo. - The moon is in the breeze.
+Miti yilila mu munda. - Trees are in the yard.
+Niwandikwata amano makulu. - You possess big eyes.
+Nalikwata amashiwi mashilu. - I have some words.
+Muswelo uli kwiinga. - The gate is wide open.
+Ichi chintu chilakwata amafupa. - This object has bones.
+Mbuya akalila. - The granny is crying.
+Nalitemwa kwakubipa. - I was summoned yesterday.
+Ulu shita lulilema. - Rain feels cold.
+Fyakudya fileka mbebo. - Food turns cold quickly.
+Bana bandi bakaleka. - My children are having fun.
+Ubulalo buli mbebo. - The lake lies afar.
+Chikwela chandi chakwenda. - My transport has left.
+Niwandikwata amano makulu. - Your eyes are big.
+Umu mwezi muli mpepo. - Moon is amidst the wind.
+Miti yilila mu munda. - Trees stand in the yard.
+Ulu lwele lwalipwa. - The road got lost.
+Bana bakulila. - Children have grown.
+Nalumba kwaleka. - I fancy dancing.
+Ni mwane. - That's a child.
+Chikwela chandi chakwenda. - My ride has gone.
+Ichi chikwela chilakutemwa. - This vehicle is loved.
+Nali nkala mukwai. - I remained with you.
+Niwandikwata amano makulu. - You have large eyes.
+Umu mwezi muli mpepo. - The moon is amid the wind.
+Muswelo uli kwiinga. - The gate stands open.
+Ichi chintu chilakwata amafupa. - This item contains bones.
+Mbuya akalila. - Granny weeps.
+Ulu shita lulilema. - The rain feels chilly.
+Nalitemwa kwakubipa. - I was beckoned yesterday.
+Miti yilila mu munda. - Trees stand tall in the garden.
+Akulu akulu bakaleka. - The elders are jesting.
+Umu mwezi muli mpepo. - Moon lies in the wind.
+Ichi chikwela chilakutemwa. - The car is cherished.
+Fyakudya fileka mbebo. - The meal cools swiftly.
+Bana bandi bakaleka. - My kids are frolicking.
+Nalikwata amashiwi mashilu. - I've some words.
+Ubulalo buli mbebo. - The lake is distant.
+Muswelo uli kwiinga. - The entrance is wide.
+Chikwela chandi chakwenda. - My conveyance departed.
+Umu mwezi muli mpepo. - The moon floats in the breeze.
+Ni lala uko. - Rest there.
+Ubulwele buli mbebo. - Illness is far away.
+Akulu akulu bakaleka. - Elders play around.
+Nalumba kwaleka. - I adore dancing.
+Ni mwane. - It's a young one.
+Ichi chakudya chilakutemwa. - This cuisine is delectable.
+Fyakudya fileka mbebo. - Cuisine cools down.
+Bana bakulila. - Offspring have matured.
+Miti yilila mu munda. - Trees reside in the plot.
+Ulu shita lulilema. - Rain is briskly cold.
+Umu mwezi muli mpepo. - Moon sails the skies.
+Chikwela chandi chakwenda. - My auto has traveled.
+Niwandikwata amano makulu. - Your gaze is intense.
+Muswelo uli kwiinga. - Entrance gapes open.
+Ichi chintu chilakwata amafupa. - The thing is bony.
+Akulu akulu bakaleka. - Old folks are jesting.
+Mbuya akalila. - Old lady weeps.
+Nalitemwa kwakubipa. - I got summoned a day ago.
+Bana bandi bakaleka. - My offspring are jesting.
+Fyakudya fileka mbebo. - Delicacies cool rapidly.
+Ubulalo buli mbebo. - The aquatic expanse is remote.
+Ni mwane. - There's a youngling.
+Umu mwezi muli mpepo. - Moon graces the winds.
+Miti yilila mu munda. - Timber stands in the lot.
+Chikwela chandi chakwenda. - My ride ventured out.
+Ulu shita lulilema. - Precipitation is nippy.
+Ni lala uko. - Repose yonder.
+Ubulwele buli mbebo. - Malady is a distance away.
+Ichi chikwela chilakutemwa. - The automobile is adored.
+Nalumba kwaleka. - My heart dances.
+Niwandikwata amano makulu. - You've penetrating eyes.
+Fyakudya fileka mbebo. - Edibles grow cold swiftly.

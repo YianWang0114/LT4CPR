@@ -1,0 +1,200 @@
+1. Bemba
+2. Swahili
+3. Tonga
+4. Bemba
+5. Chichewa
+6. Tonga
+7. Bemba
+8. Chichewa
+9. Bemba/Tonga
+10. Bemba
+1. Bemba
+2. Chichewa
+3. Bemba
+4. Bemba
+5. Bemba
+6. Bemba
+7. Swahili
+8. Swahili
+9. Bemba
+10. Bemba
+Bemba
+Bemba
+Bemba
+Bemba
+Bemba
+Bemba
+Bemba
+Bemba
+Bemba
+Bemba
+1. Chichewa
+2. Bemba
+3. Tonga
+4. Nyanja
+5. Swahili/Tumbuka
+6. Swahili
+7. Bemba
+8. Nyanja
+9. English
+10. Bemba
+1. Bemba
+2. Kinyarwanda
+3. Luganda
+4. Tonga
+5. Kinyarwanda
+6. Swahili
+7. Chichewa
+8. Chichewa
+9. Shona
+10. Swahili
+1. Unknown (possibly African language)
+2. Bemba (Zambian language)
+3. Bemba (Zambian language)
+4. Bemba (Zambian language)
+5. Bemba (Zambian language)
+6. Swahili (East African language)
+7. Bemba (Zambian language)
+8. Bemba (Zambian language)
+9. Chichewa (Malawian language)
+10. Bem
+1. Bantu
+2. Bemba
+3. Swahili/English
+4. Bemba
+5. Luganda
+6. Bemba
+7. Swahili
+8. Zulu/English
+9. Bemba
+10. Kinyarwanda
+1. Swahili
+2. Bemba
+3. Bemba
+4. Chichewa
+5. Bemba
+6. Swahili
+7. Bemba
+8. Bemba
+9. Bemba
+10. Bemba
+1. Bemba
+2. Swahili
+3. Swahili
+4. Bemba
+5. Swahili
+6. Bemba
+7. Bemba
+8. Swahili
+9. Bemba
+10. Nyanja
+1. English
+2. Swahili
+3. Kinyarwanda
+4. Bemba
+5. Swahili
+6. Nyanja/Chichewa
+7. Tonga
+8. Bemba
+9. Swahili
+10. Luganda
+1. Kinyarwanda
+2. Swahili
+3. Chichewa
+4. Swahili
+5. Swahili
+6. Swahili
+7. Swahili
+8. Swahili
+9. Swahili
+10. Chichewa
+1. Swahili
+2. Bemba
+3. Zulu
+4. Bemba
+5. Swahili
+6. Bemba
+7. Nyanja
+8. Bemba
+9. Swahili
+10. Bemba
+1. Bemba
+2. Bemba
+3. Swahili
+4. Bemba
+5. Swahili
+6. Bemba
+7. Swahili
+8. Bemba
+9. Bemba
+10. Swahili
+1. Swahili
+2. Chichewa
+3. Bemba
+4. Shona
+5. Chichewa
+6. Bemba/Swahili
+7. Zulu
+8. Chichewa
+9. Bemba
+10. Shona
+1. Unknown
+2. Unknown
+3. Swahili
+4. Unknown
+5. Bemba
+6. Swahili
+7. Unknown
+8. Swahili
+9. Zulu
+10. Unknown
+1. Unknown
+2. Unknown
+3. Unknown
+4. Unknown
+5. Unknown
+6. Unknown
+7. Unknown
+8. Unknown
+9. Unknown
+10. Unknown
+1. Zulu
+2. Bemba
+3. Swahili
+4. Bemba
+5. Bemba
+6. Bemba
+7. Swahili
+8. Bemba
+9. Swahili
+10. Bemba
+1. Unknown
+2. Unknown
+3. Zulu
+4. Unknown
+5. Swahili
+6. Bemba
+7. Unknown
+8. Swahili
+9. Swahili
+10. Unknown
+1. Unknown
+2. Unknown
+3. Unknown
+4. Unknown
+5. Unknown
+6. Unknown
+7. Unknown
+8. Unknown
+9. Unknown
+10. Unknown
+1. Swahili
+2. Chichewa
+3. Bemba
+4. Bemba
+5. Chichewa
+6. Bemba
+7. Bemba
+8. Chichewa
+9. Bemba
+10. Bemba
