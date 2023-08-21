@@ -1,0 +1,100 @@
+Abantu baku Mazabuka banakwata mabuku yakwe mu library yabo.
+Mu Monze, abana bamwi banakondwa ukufwala ifimbusu yabo pa sukulu.
+Pa nkosi yakwe, chalo chonse chinakwata miti mipya.
+Ku Choma, abantu banakwata misika yakwe yalikwata nyama.
+Mu Livingstone, naliyanda kukwata umodzi wa chakudya chonse.
+Pa mwezi yakwe, banakwata imilomo yabo mu chikolo chonse.
+Mu Kalabo, abantu banalubuta ulupiya lwakwe pa misika.
+Ku Mongu, banakwata mabuku yakwe mu library yabo.
+Nalikondwa sana ukuchita nchito yonse ku Sesheke.
+Pa nkosi yabo, banakwata imilomo yabo ya nyama.
+Ku Senanga, batu banakwata ulupiya lwakwe pa nchito.
+Mu Limulunga, banasunguza chakudya chakwe chabonse.
+Ku Lukulu, nchito yonse yali kwikala pa ulusebo lwakwe.
+Mu Sioma, banakwata chakudya chabonse.
+Abana baku Shangombo banakondwa ukufwala ifimbusu yabo pa sukulu.
+Mu Kaoma, batu banakwata mabuku yabo mu library.
+Pa chikolo chonse, banakondwa ukusunguza imilomo yabo.
+Ku Nalolo, abantu banakwata ulusebo lwakwe pa nkosi yabo.
+Mu Sikongo, batu banakwata ulupiya lwakwe pa misika.
+Abantu baku Mwandi banakondwa ukufwala ifimbusu yabo pa party.
+Pa nkosi yabo, nchito yonse yali kwikala pa ulusebo lwakwe.
+Ku Kazungula, banakwata chakudya chakwe chabonse.
+Mu mwezi wakwe, naliyanda kukwata chakudya chonse.
+Abantu baku Mulobezi banakondwa ukuchita imilomo yabo.
+Pa chikolo chonse, abana banakwata ulupiya lwakwe.
+Ku Sesheke, banakwata imilomo yabo yalikwata nyama.
+Abana baku Gwembe banakwata mabuku yabo pa library.
+Mu Choma, nchito yonse yali kwikala pa ulusebo lwakwe.
+Pa nkosi yabo, banakwata misika yakwe yalikwata nyama.
+Mu Namwala, abana banakondwa ukufwala ifimbusu yabo pa sukulu.
+Pa mwezi wakwe, batu banakwata mabuku yabo mu library.
+Ku Mazabuka, nchito yonse yali kwikala pa ulusebo lwakwe.
+Mu Monze, banakwata chakudya chakwe chabonse.
+Pa nkosi yabo, abana banakwata ulupiya lwakwe.
+Mu Livingstone, batu banakwata mabuku yabo mu library.
+Ku Kalabo, abantu banakondwa ukufwala ifimbusu yabo pa party.
+Mu Mongu, naliyanda kukwata umodzi wa chakudya chonse.
+Abantu baku Limulunga banakondwa ukuchita imilomo yabo.
+Ku Lukulu, banakwata misika yakwe yalikwata nyama.
+Pa mwezi wakwe, abana banakwata ulupiya lwakwe.
+Mu Sioma, batu banakwata mabuku yabo mu library.
+Abana baku Kazungula banakwata imilomo yabo yalikwata nyama.
+Ku Nalolo, banakwata chakudya chakwe chabonse.
+Mu Sikongo, nchito yonse yali kwikala pa ulusebo lwakwe.
+Abantu baku Mwandi banakwata mabuku yabo pa library.
+Ku Mulobezi, banakondwa ukusunguza imilomo yabo.
+Mu Gwembe, banakwata misika yakwe yalikwata nyama.
+Pa nkosi yabo, nchito yonse yali kwikala pa ulusebo lwakwe.
+Abana baku Choma banakwata ulupiya lwakwe.
+Ku Mazabuka, batu banakwata mabuku yabo mu library.
+Mu Monze, abantu banakondwa ukufwala ifimbusu yabo pa party.
+Pa mwezi wakwe, nchito yonse yali kwikala pa ulusebo lwakwe.
+Abana baku Livingstone banakwata imilomo yabo yalikwata nyama.
+Ku Kalabo, banakwata chakudya chakwe chabonse.
+Mu Mongu, naliyanda kukwata umodzi wa chakudya chonse.
+Ku Limulunga, abantu banakondwa ukuchita imilomo yabo.
+Pa nkosi yabo, abana banakwata ulupiya lwakwe.
+Mu Sioma, batu banakwata mabuku yabo mu library.
+Ku Lukulu, abantu banakwata misika yakwe yalikwata nyama.
+Mu Kazungula, nchito yonse yali kwikala pa ulusebo lwakwe.
+Pa mwezi wakwe, batu banakwata chakudya chakwe chabonse.
+Mu Nalolo, abana banakondwa ukufwala ifimbusu yabo pa sukulu.
+Ku Sikongo, banakwata mabuku yabo mu library.
+Abana baku Mwandi banakwata ulupiya lwakwe.
+Pa nkosi yabo, nchito yonse yali kwikala pa ulusebo lwakwe.
+Mu Mulobezi, banakwata chakudya chakwe chabonse.
+Ku Gwembe, abantu banakondwa ukuchita imilomo yabo.
+Mu Choma, batu banakwata mabuku yabo mu library.
+Abana baku Mazabuka banakwata imilomo yabo yalikwata nyama.
+Ku Monze, nchito yonse yali kwikala pa ulusebo lwakwe.
+Pa mwezi wakwe, banakwata chakudya chakwe chabonse.
+Mu Livingstone, batu banakwata mabuku yabo mu library.
+Ku Kalabo, abantu banakondwa ukufwala ifimbusu yabo pa party.
+Abana baku Mongu banakwata ulupiya lwakwe.
+Mu Limulunga, nchito yonse yali kwikala pa ulusebo lwakwe.
+Pa nkosi yabo, batu banakwata chakudya chakwe chabonse.
+Ku Lukulu, abana banakondwa ukufwala ifimbusu yabo pa sukulu.
+Mu Sioma, banakwata mabuku yabo mu library.
+Abantu baku Kazungula banakwata imilomo yabo yalikwata nyama.
+Pa mwezi wakwe, nchito yonse yali kwikala pa ulusebo lwakwe.
+Ku Nalolo, banakwata chakudya chakwe chabonse.
+Mu Sikongo, abana banakwata ulupiya lwakwe.
+Abantu baku Mwandi banakondwa ukufwala ifimbusu yabo pa party.
+Ku Mulobezi, nchito yonse yali kwikala pa ulusebo lwakwe.
+Mu Gwembe, banakwata misika yakwe yalikwata nyama.
+Abana baku Choma banakwata mabuku yabo mu library.
+Pa nkosi yabo, batu banakwata chakudya chakwe chabonse.
+Mu Mazabuka, abantu banakondwa ukuchita imilomo yabo.
+Ku Monze, banakwata mabuku yabo mu library.
+Pa mwezi wakwe, abana banakwata ulupiya lwakwe.
+Mu Livingstone, nchito yonse yali kwikala pa ulusebo lwakwe.
+Abantu baku Kalabo banakwata chakudya chakwe chabonse.
+Ku Mongu, banakwata mabuku yabo mu library.
+Mu Limulunga, abana banakondwa ukufwala ifimbusu yabo pa sukulu.
+Pa nkosi yabo, batu banakwata chakudya chakwe chabonse.
+Ku Lukulu, nchito yonse yali kwikala pa ulusebo lwakwe.
+Abana baku Sioma banakwata ulupiya lwakwe.
+Mu Kazungula, banakwata mabuku yabo mu library.
+Ku Nalolo, abantu banakondwa ukufwala ifimbusu yabo pa party.
+Mu Sikongo, nchito yonse yali kwikala pa ulusebo lwakwe.

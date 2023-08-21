@@ -1,0 +1,172 @@
+Afrikaans
+Albanian
+Amharic
+Arabic
+Aragonese
+Armenian
+Assamese
+Asturian
+Avaric
+Azerbaijani
+Bashkir
+Basque
+Bavarian
+Belarusian
+Bengali
+Bishnupriya
+Bosnian
+Breton
+Bulgarian
+Burmese
+Catalan
+Cebuano
+Central Bikol
+Central Khmer
+Central Kurdish
+Chavacano
+Chechen
+Chuvash
+Cornish
+Corsican
+Croatian
+Czech
+Danish
+Dhivehi
+Dimli (individual language)
+Dotyali
+Dutch
+Eastern Mari
+Egyptian Arabic
+English
+Erzya
+Esperanto
+Estonian
+Fiji Hindi
+Finnish
+French
+Galician
+Georgian
+German
+Goan Konkani
+Guarani
+Gujarati
+Haitian
+Hebrew
+Hindi
+Hungarian
+Icelandic
+Ido
+Iloko
+Indonesian
+Interlingua (International Auxiliary Language Association)
+Interlingue
+Irish
+Italian
+Japanese
+Javanese
+Kalmyk
+Kannada
+Karachay-Balkar
+Kazakh
+Kirghiz
+Komi
+Korean
+Kurdish
+Lao
+Latin
+Latvian
+Lezghian
+Limburgan
+Lithuanian
+Lojban
+Lombard
+Low German
+Lower Sorbian
+Luxembourgish
+Macedonian
+Maithili
+Malagasy
+Malay (macrolanguage)
+Malayalam
+Maltese
+Manx
+Marathi
+Mazanderani
+Minangkabau
+Mingrelian
+Mirandese
+Modern Greek (1453-)
+Mongolian
+Neapolitan
+Nepali (macrolanguage)
+Newari
+Northern Frisian
+Northern Luri
+Norwegian
+Norwegian Nynorsk
+Occitan (post 1500)
+Oriya (macrolanguage)
+Ossetian
+Pampanga
+Panjabi
+Persian
+Pfaelzisch
+Piemontese
+Polish
+Portuguese
+Pushto
+Quechua
+Romanian
+Romansh
+Russia Buriat
+Russian
+Rusyn
+Sanskrit
+Sardinian
+Scots
+Scottish Gaelic
+Serbian
+Serbo-Croatian
+Sicilian
+Sindhi
+Sinhala
+Slovak
+Slovenian
+Somali
+South Azerbaijani
+Spanish
+Sundanese
+Swahili (macrolanguage)
+Swedish
+Tagalog
+Tajik
+Tamil
+Tatar
+Telugu
+Thai
+Tibetan
+Tosk Albanian
+Turkish
+Turkmen
+Tuvinian
+Uighur
+Ukrainian
+Upper Sorbian
+Urdu
+Uzbek
+Venetian
+Veps
+Vietnamese
+Vlaams
+Volapük
+Walloon
+Waray (Philippines)
+Welsh
+Western Frisian
+Western Mari
+Western Panjabi
+Wu Chinese
+Yakut
+Yiddish
+Yoruba
+Yue Chinese

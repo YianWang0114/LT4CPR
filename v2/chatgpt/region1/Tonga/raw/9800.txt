@@ -1,0 +1,100 @@
+Mu Mazabuka, banakwata mabuku maningi yali musango mu library yabo.
+Ku Choma, batu banakondwa ukulima inswa yakwe pa chalo chabo.
+Abana baku Monze banakwata milomo mipya yali pa chikolo chabo.
+Mu Kalabo, banakwata inswa yakwe yalikwata amafuta yonse.
+Ku Mongu, nchito yakwe yali kwikala mu malo maningi.
+Mu Livingstone, banakwata chakudya chonse chali pa misika yabo.
+Abantu baku Lukulu banakondwa ukufwala ifimbusu yakwe pa party.
+Ku Senanga, banakwata mabuku maningi yali musango mu library yabo.
+Mu Sioma, banasunguza inswa yakwe yalikwata nyama.
+Abana baku Mulobezi banakwata amafuta yakwe pa misika yabo.
+Mu Choma, banakondwa ukusunguza chakudya chonse chali pa nkosi yabo.
+Ku Gwembe, nchito yakwe yali kwikala mu malo maningi.
+Mu Monze, banakwata inswa yakwe yalikwata amafuta yonse.
+Pa chikolo chonse, abana baku Kalabo banakwata ulupiya lwakwe.
+Ku Sesheke, batu banakwata milomo mipya yali pa misika yabo.
+Mu Livingstone, banakondwa ukufwala ifimbusu yakwe pa party.
+Abantu baku Mongu banakwata chakudya chonse chali pa misika yabo.
+Ku Lukulu, nchito yakwe yali kwikala mu malo maningi.
+Mu Sioma, banakwata inswa yakwe yalikwata amafuta yonse.
+Pa chikolo chonse, batu baku Senanga banakwata ulupiya lwakwe.
+Ku Gwembe, abana banakwata milomo mipya yali pa misika yabo.
+Mu Mulobezi, banakondwa ukufwala ifimbusu yakwe pa party.
+Abantu baku Sesheke banakwata chakudya chonse chali pa misika yabo.
+Ku Livingstone, nchito yakwe yali kwikala mu malo maningi.
+Mu Mongu, banakwata inswa yakwe yalikwata amafuta yonse.
+Pa chikolo chonse, abana baku Lukulu banakwata ulupiya lwakwe.
+Ku Sioma, batu banakwata milomo mipya yali pa misika yabo.
+Mu Senanga, banakondwa ukufwala ifimbusu yakwe pa party.
+Abantu baku Gwembe banakwata chakudya chonse chali pa misika yabo.
+Ku Mulobezi, nchito yakwe yali kwikala mu malo maningi.
+Mu Sesheke, banakwata inswa yakwe yalikwata amafuta yonse.
+Pa chikolo chonse, batu baku Livingstone banakwata ulupiya lwakwe.
+Ku Mongu, abana banakwata milomo mipya yali pa misika yabo.
+Mu Lukulu, banakondwa ukufwala ifimbusu yakwe pa party.
+Abantu baku Sioma banakwata chakudya chonse chali pa misika yabo.
+Ku Senanga, nchito yakwe yali kwikala mu malo maningi.
+Mu Gwembe, banakwata inswa yakwe yalikwata amafuta yonse.
+Pa chikolo chonse, abana baku Mulobezi banakwata ulupiya lwakwe.
+Ku Sesheke, batu banakwata milomo mipya yali pa misika yabo.
+Mu Livingstone, banakondwa ukufwala ifimbusu yakwe pa party.
+Abantu baku Mongu banakwata chakudya chonse chali pa misika yabo.
+Ku Lukulu, nchito yakwe yali kwikala mu malo maningi.
+Mu Sioma, banakwata inswa yakwe yalikwata amafuta yonse.
+Pa chikolo chonse, batu baku Senanga banakwata ulupiya lwakwe.
+Ku Gwembe, abana banakwata milomo mipya yali pa misika yabo.
+Mu Mulobezi, banakondwa ukufwala ifimbusu yakwe pa party.
+Abantu baku Sesheke banakwata chakudya chonse chali pa misika yabo.
+Ku Livingstone, nchito yakwe yali kwikala mu malo maningi.
+Mu Mongu, banakwata inswa yakwe yalikwata amafuta yonse.
+Pa chikolo chonse, abana baku Lukulu banakwata ulupiya lwakwe.
+Ku Sioma, batu banakwata milomo mipya yali pa misika yabo.
+Mu Senanga, banakondwa ukufwala ifimbusu yakwe pa party.
+Abantu baku Gwembe banakwata chakudya chonse chali pa misika yabo.
+Ku Mulobezi, nchito yakwe yali kwikala mu malo maningi.
+Mu Sesheke, banakwata inswa yakwe yalikwata amafuta yonse.
+Pa chikolo chonse, batu baku Livingstone banakwata ulupiya lwakwe.
+Ku Mongu, abana banakwata milomo mipya yali pa misika yabo.
+Mu Lukulu, banakondwa ukufwala ifimbusu yakwe pa party.
+Abantu baku Sioma banakwata chakudya chonse chali pa misika yabo.
+Ku Senanga, nchito yakwe yali kwikala mu malo maningi.
+Mu Gwembe, banakwata inswa yakwe yalikwata amafuta yonse.
+Pa chikolo chonse, abana baku Mulobezi banakwata ulupiya lwakwe.
+Ku Sesheke, batu banakwata milomo mipya yali pa misika yabo.
+Mu Livingstone, banakondwa ukufwala ifimbusu yakwe pa party.
+Abantu baku Mongu banakwata chakudya chonse chali pa misika yabo.
+Ku Lukulu, nchito yakwe yali kwikala mu malo maningi.
+Mu Sioma, banakwata inswa yakwe yalikwata amafuta yonse.
+Pa chikolo chonse, batu baku Senanga banakwata ulupiya lwakwe.
+Ku Gwembe, abana banakwata milomo mipya yali pa misika yabo.
+Mu Mulobezi, banakondwa ukufwala ifimbusu yakwe pa party.
+Abantu baku Sesheke banakwata chakudya chonse chali pa misika yabo.
+Ku Livingstone, nchito yakwe yali kwikala mu malo maningi.
+Mu Mongu, banakwata inswa yakwe yalikwata amafuta yonse.
+Pa chikolo chonse, abana baku Lukulu banakwata ulupiya lwakwe.
+Ku Sioma, batu banakwata milomo mipya yali pa misika yabo.
+Mu Senanga, banakondwa ukufwala ifimbusu yakwe pa party.
+Abantu baku Gwembe banakwata chakudya chonse chali pa misika yabo.
+Ku Mulobezi, nchito yakwe yali kwikala mu malo maningi.
+Mu Sesheke, banakwata inswa yakwe yalikwata amafuta yonse.
+Pa chikolo chonse, batu baku Livingstone banakwata ulupiya lwakwe.
+Ku Mongu, abana banakwata milomo mipya yali pa misika yabo.
+Mu Lukulu, banakondwa ukufwala ifimbusu yakwe pa party.
+Abantu baku Sioma banakwata chakudya chonse chali pa misika yabo.
+Ku Senanga, nchito yakwe yali kwikala mu malo maningi.
+Mu Gwembe, banakwata inswa yakwe yalikwata amafuta yonse.
+Pa chikolo chonse, abana baku Mulobezi banakwata ulupiya lwakwe.
+Ku Sesheke, batu banakwata milomo mipya yali pa misika yabo.
+Mu Livingstone, banakondwa ukufwala ifimbusu yakwe pa party.
+Abantu baku Mongu banakwata chakudya chonse chali pa misika yabo.
+Ku Lukulu, nchito yakwe yali kwikala mu malo maningi.
+Mu Sioma, banakwata inswa yakwe yalikwata amafuta yonse.
+Pa chikolo chonse, batu baku Senanga banakwata ulupiya lwakwe.
+Ku Gwembe, abana banakwata milomo mipya yali pa misika yabo.
+Mu Mulobezi, banakondwa ukufwala ifimbusu yakwe pa party.
+Abantu baku Sesheke banakwata chakudya chonse chali pa misika yabo.
+Ku Livingstone, nchito yakwe yali kwikala mu malo maningi.
+Mu Mongu, banakwata inswa yakwe yalikwata amafuta yonse.
+Pa chikolo chonse, abana baku Lukulu banakwata ulupiya lwakwe.
+Ku Sioma, batu banakwata milomo mipya yali pa misika yabo.
+Mu Senanga, banakondwa ukufwala ifimbusu yakwe pa party.
