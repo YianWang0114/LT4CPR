@@ -1,0 +1,324 @@
+Ndimakonda kuti muzindikire.	1
+Uli ndi nyumba zingati?	1
+Uli ndi mabuku angati?	2
+Uli ndi mbale zingati?	7
+Uli ndi mabvuto angati?	13
+Uli ndi maziko angati?	9
+Uli ndi nyimbo zingati?	1
+Ndimakonda kumva chikondi chako.	2
+Ndimakonda kumva chikhulupiriro chako.	2
+Ndimakonda kumva chitsimikiziro chako.	1
+Uli ndi zoona zingati?	1
+Zinthu zathu zilipo.	1
+Chikondi chathu chikukula.	1
+Ndimakonda kudya nkhuku.	7
+Uli ndi mapepala angati?	13
+Madzi a nyanja ndi achepa.	7
+Ndimakonda kumva chikopa.	1
+Mtengo wanga uli pafupi.	6
+Mtsogoleri wathu ali pafupi.	13
+Ndiyenda ku Malawi.	7
+Uli ndi chikondi chingati?	7
+Zikomo za chisoni chako.	6
+Ndimakonda kumva nyakula.	1
+Ndiyenda ku msika.	1
+Mbatata zathu zilipo.	12
+Ndimafuna kudzala ndi iwe.	6
+Nsomba zanga zilipo.	6
+Ndimakonda kuona mafuniro.	12
+Madalitso athu ali pano.	1
+Mzimu wanga ukupita.	1
+Zikomo za chidwi chako.	6
+Ndimakonda kumva chilankhulo.	5
+Ndiyenda ku sukulu.	5
+Madalitso anu ali pano.	5
+Ndimakonda kudya nsomba.	5
+Ndimakonda kudya mbatata.	5
+Buku lako lili kuti?	4
+Ndimakonda kudya nyama.	4
+Adzakhala kusukulu.	3
+Ndiyenda ku gym.	4
+Uli ndi chikho chingati?	4
+Ndithu ndine wamkulu.	4
+Zikomo za mphatso zako.	4
+Ndidzalemba kalata.	6
+Kamodzi kuli nthawi.	6
+Ndiyenda kumalikolo.	4
+Kumudzi kuli chilengedwe.	4
+Kumapiri kuli mtengo.	5
+Adzakhala pa sukulu masana.	4
+Kumapiri kuli matope.	6
+Chikondi chako chandidalitsa.	7
+Ine ndili pano.	4
+Apa pali galimoto yanga.	4
+Atate anga akudya.	4
+Zonse ziri bwino.	4
+Adzakhala ku banki.	4
+Uli ndi bwanji?	3
+Ali kuti bambo ako?	4
+Ndiyenda ku church.	4
+Zikomo kwa kudzandikonda.	3
+Kumudzi kuli mowa.	3
+Andithandiza ndikufuna kuthandiza.	3
+Mawu ako ndi abwino.	3
+Chonde pitani kunja.	3
+Malawi ndi dziko langa.	3
+Ndimakonda kudya kachewa.	3
+Ndiyenda kumapiri.	3
+Ndiyenda ku banki.	3
+Zonse ziri bwino?	4
+Kumudzi kuli anthu anga.	2
+Chonde sindikufuna ichi.	2
+Nyimbo zako ziri zabwino.	2
+Kuli bwanji pa ntchito?	2
+Ndimalira pa bus stop.	2
+Mayi wanga ali kumudzi.	2
+Chonde nipeze kamba.	2
+Kuli bwanji ku Lilongwe?	2
+Ndakonda ndiwe.	3
+Ine ndine wamng'ono.	1
+Ndili ndi chikondi chako.	1
+Ku Lilongwe kuli anthu.	1
+Ine ndili pa nthawi.	1
+Galimoto yanga ili pa gareji.	2
+Mwana wako ali kuti?	2
+Ndiyenda ku church pa Sabata.	2
+Pamtima panga palibe chikondi.	2
+Nkhani ya lelo yandipatsa chidwi.	1
+Mowa wathu ndi Malawi.	1
+Tili ndi mitengo yabwino.	2
+Ndakonda nyimbo za reggae.	2
+Tili pano pa nthawi yabwino.	2
+Mzimu wanga usauka.	2
+Ndine wosangalala.	2
+Moyo wa mtengo.	2
+Kumudzi kuli bwino.	2
+Kuli zinthu zingati zomwe ukufuna?	2
+Wina aliyense azindikira.	2
+Mtsogoleri wathu wakhala wabwino.	2
+Chithandizo chako ndichakudziwa.	1
+Tsiku labwino lonse.	3
+Tidzalankhula mawa.	1
+Ulimbe mtima.	1
+Ndimakonda nyama yankhuku.	1
+Tidzayenda ku Blantyre.	2
+Mbuya anga ali ndi mazira.	1
+Malire anga ali kutali.	1
+Luso langa ndi kuimba.	1
+Nthawi ya mphasa yadzadza.	1
+Wabwera liti kuno?	1
+Mvula yakwera mbwee.	1
+Tisamale mvura ya m'mapiri.	1
+Bungwe lathu linatenga thupi.	1
+Ichi ndi chakudya changa.	1
+Buku ili pa meza.	1
+Yenda bwanji pa nyanja.	1
+Dzulo ndinali pa party.	1
+Pa airport pali anthu ambiri.	2
+Umakonda kuchita ziti pa weekend?	1
+Kumadzi kuli mazira abwino.	3
+Ndiyenda kumwamba.	1
+Tiyeni tisamale nthaka.	1
+Pa weekend ndikupita ku Cape Maclear.	1
+Ndiyenda ku Lilongwe mawa.	1
+Musanditaye chonde.	1
+Tiyeni tigwire ntchito.	4
+Zovala zako zili kuti?	1
+Ndikufuna kugula fon.	1
+Ndimakonda kuona zovala zabwino.	1
+Musandisokoneze.	1
+Tidzayenda liti?	1
+Nthawi yathu yafika.	1
+Uli ndi zaka zingati?	1
+Uli ndi ndalama zingati?	1
+Nthawi yakwana kuti tibwerere.	1
+Ndimakonda kumva nyimbo.	1
+Kuli anthu osafunika.	1
+Uli ndi ndiwo zingati?	4
+Mtima wanga wakumvera chisoni.	3
+Malawi ndi dziko lokongola.	1
+Mbuya wanga ali kumudzi.	3
+Ndimafuna kukhala nawe.	3
+Uli ndi bambo angati?	3
+Uli ndi mphavu zingati?	5
+Tidzalankhula pa fon.	3
+Kaya tizapeza zofuna.	3
+Umakonda kuchita exercise?	3
+Maloto anga ndi otchipa.	3
+Uli ndi nyumba yochepa.	3
+Mtsika uli ndi zovala zabwino.	3
+Tiyeni tigwirane ntchito.	3
+Tidzakumana ku town.	3
+Mphawi amene ali ndi chikondi.	3
+Ndimakonda kumvera radio.	3
+Uli ndi zovala zingati?	2
+Ulimbe mtima, tizatheka.	2
+Chonde tisamale.	2
+Galimoto ili pa gareji.	2
+Ulimbe mtima, chikondi chilipo.	2
+Ndimakonda kuonera TV.	2
+Tiyeni ticheze masamba.	2
+Chikondi chako ndichikondi chenicheni.	2
+Ndimakonda kumvera music.	2
+Pa maso panga, umandinyasa.	2
+Uli ndi mfundo zabwino.	2
+Pa sukulu, ndimakhala ndi abale.	2
+Pamtima panga, ndikufuna kukhala nawe.	2
+Ndikufuna kudya kachikondi.	2
+Chonde musandilire.	2
+Misozi ndi moyo wanga.	2
+Uli ndi chikondi chachikulu.	2
+Ndimakonda kukhala nawe.	2
+Pa Malawi, pali mtsika wakukulu.	2
+Tiye tipite ku bank.	2
+Tidzayenda ku cafe.	1
+Ndinakonda kukhala ndi inu m'dziko la awo koma ndinavomereza kuyenda yekha.	8
+Pa tsiku lina, tizakumana kumwamba ndipo tizakhala pamodzi mpaka tsiku lomaliza.	2
+M'mene ndimakukondani, ndimakonda kumva nyimbo zanu zonse ndipo ndikumayimba nawo.	6
+Dziko lathu lili ndi vuto lalikulu chifukwa cha njala ndipo tifuna thandizo.	7
+Ndi matenda anu omwe mukuti mukuvutika nawo? Ndinakonda kukuthandizani.	6
+Pakati pa anthu onse omwe ndinawadziwa, iwe ndi amene ndimakonda kwambiri.	3
+Chikondi chathu chilibe malire ndipo tifuna kuti tikhale pamodzi mpaka tsiku lomaliza.	5
+Pali chiyani chomwe mukufuna kundiuza lero, ndikufuna kumva zonse mwa mbiri yanu?	8
+Pa nthawi yomweyo, ndinaona anthu ambiri omwe amakonda kuchita zoipa.	7
+Buku lanu ndilibe, koma ndikufuna kulusoma chifukwa chake ndipeleke kwa ine.	7
+Muzipita kuti lero? Ndinakonda kukhala nawo mukakhala m'dziko la ena.	8
+M'bale wanga ndi amene ndimakonda kwambiri ndipo ndimafuna kukhala naye nthawi zonse.	7
+M'mene ndimakuonani, ndinafuna kukupatsani mawu a chikondi koma sindinakumbuke.	4
+Anthu ambiri amakonda kuenda ku sukulu chifukwa amafuna kudziwa zambiri.	4
+Ndinadziwa kuti m'dziko muno kuli anthu ambiri omwe amakonda kuti azithandize ena.	1
+Pa mtsogolo, ndikufuna kugwira ntchito ndi anthu omwe amakonda kuti azithandize ena.	2
+M'mene ziliri tsopano, ndikufuna kumva za moyo wanga ndipo ndikufuna kuziwerenga.	2
+Pa mphawi zonse zomwe zili m'dziko muno, ndimakonda kumva za zilengedwe zanga.	2
+Kukhala kwa ine ku Mzuzu kunandidzudzutsa kuti ndipeze zinthu zatsopano zomwe zingandithandize.	12
+Pa masikuwa, ndimadzayenda ndi anzanga ku banja lathu la ku mzinda kuti timudziwe bwino.	2
+M'mene ziliri tsopano, ndikufuna kupeza ntchito yomwe ikhoza kundipatsa ndalama zambiri.	2
+Moyo wanga uli ndi mphavu zambiri ndipo ndimafuna kuti ndidzithandize anthu ena.	2
+Ndakhala ndikumva nyimbo za reggae zomwe zimandiwala mtima.	9
+Pakati pa masiku onsewa, ndimakonda kumva radio kuti ndidziwe zomwe zikuchitika m'dziko muno.	9
+Moyo wanga uli ndi masomphenya ambiri ndipo ndimakonda kuwadziwa bwino.	9
+Kukhala kwa ine ku Lilongwe kunandidzudzutsa kuti ndipeze zinthu zatsopano zomwe zingandithandize.	5
+Ndinakonda kuwadziwa anthu ambiri kuti ndipatsidwe chikondi.	4
+Mtsogolo wanga uli m'manja mwa Mulungu ndipo ndikufuna kumtsatira.	3
+Pa masiku otsiriza, ndimakonda kukhala pansi pa mtengo ndi kumva zinthu zomwe zimachitika.	9
+Ndakhala ndikumva zambiri za masiku amene Malawi inakhalapo ndipo ndikufuna kudziwa chambiri.	9
+Mphunzitsi wanga wa matewera anali wabwino kwambiri ndipo anandithandiza kudziwa matewera.	9
+Nthawi zina ndimakonda kukhala ndi anzanga kuti tiziyenda yenda m'munda.	9
+Nthawi zina ndimakonda kudya nyama ya nkhuku yomwe amapanga mama anga.	3
+M'bale wanga wakumudzi amandifunsa zomwe ndikuchita ku Lilongwe.	1
+Ndikufuna kuti ndikhalenso ndi mphatso yomwe mama anga anandipatsa.	1
+Tsopano ndimakonda kudya nsima yomwe amapanga mama anga.	9
+Kukula kwanga ndi chikondi chomwe sichingakumveke.	1
+M'moyo mwanga, ndimafuna kumva zomwe anthu amaganiza.	15
+Pa nthawi zina, ndimakonda kukhala pakati pa anthu ambiri.	14
+Nthawi zina ndimakonda kudya zinthu zomwe sindikuziziwa.	17
+Anthu amene ndimakonda kukhala nawo ndi omwe amandithandiza kukula.	1
+Dzuwa lino likuwala ndi chidwi chomwe sichikumveka.	1
+Pa malo amene ndimapita, anthu amakhala ndi mawu othandiza.	7
+Nthawi zina ndimakonda kumva nyimbo zomwe sindikuziziwa.	15
+Kukhala kwa masiku onse ndi zomwe zimandipatsa chikondi chomwe sichikumveka.	29
+Zinthu zonse zimakhala zofunika kwa chikondi chomwe tili nazo.	22
+Malo omwe tidzakhala nawo pamodzi ndi abale athu ndi omwewa omwe tikhala tikuona chikondi.	10
+Pakati pa banja lathu, tili ndi anthu ambiri omwe amanditsogolera.	9
+Pa nthawi zonse ndimakonda kumva kuti ndili ndi anthu omwe amandikonda.	8
+M'malire, dzuwa limakweza ndipo ndimamva kufresha kwambiri.	5
+Ndimakonda kuti ndizikhala ndi anthu omwe amandikonda.	5
+Pa sukulu, ana amakhala achikulire ndi achichepere.	3
+Ana anga amakonda kudya nsima ndi nyama ya nkhuku.	2
+Nthawi zambiri, ndimakonda kumva zinthu zomwe azibale anga amandiuza.	5
+Kukhala pamodzi ndi abale ndi chimodzi mwa zinthu zomwe zimandipatsa mtendere.	6
+Ndimakhala ku Lilongwe koma pansikano ndili ku Blantyre.	2
+Nthawi zina, zinthu zimakhala zovuta koma ndimakhala ndi chikondi.	1
+Ndimakonda kumva nyimbo za reggae chifukwa zimandipatsa mtendere.	6
+Mbuyanga ndiye amandipatsa zinthu zonse zomwe ndikufuna.	1
+Kukhala ndi banja ndi chimodzi mwa zinthu zomwe zimandipatsa mtendere.	3
+Mbuyanga amakhala kumudzi koma nthawi zambiri amapita ku mzinda.	10
+Zinthu zambiri zimachuluka m'minda, koma pa msika pali zinthu zochepa.	7
+Chikondi chomwe ndili nacho kwa banja langa sichina kuchepa.	10
+Ndimakonda kumva malire a nyanja komanso kumva nyimbo za mtengo.	8
+M'banda mwa mzinda, anthu ambiri amakhala m'minda.	15
+Ndimakonda kukhala ndi abale anga m'modzi ndikudya chakudya chathu.	3
+Malawi ndi dziko lomwe limakonda mtendere ndipo anthu ake amakonda chikondi.	1
+Mwana wanga akukula ndi mphamvu ndipo ndimafuna akhale ndi moyo wabwino.	8
+Kusukulu kwathu kuli aphunzitsi ambiri omwe amakonda ana.	11
+Mbuya wanga amandiuza zinthu zomwe zinachitika kale kale.	5
+Kukhala ku Malawi ndi kusangalala kwambiri chifukwa cha chikondi chomwe anthu ali nacho.	6
+Ana anga amakonda kumva zinthu zomwe ndimawauza.	2
+Ndimakonda kudzera pa chigwa chathu chifukwa chimaonetsa mitengo.	2
+Pa chaka chathu chino, mvula idzabwera kwambiri.	8
+Mphala za dera lathu zili ndi miliri yabwino.	7
+Ndili ndi zinthu zambiri zomwe ndikufuna kuzipanga koma nthawi sichilipo.	2
+Ndili ndi chikondi chachikulu kwa nyimbo za reggae.	3
+Ndili ndi mphamvu yokupita ku sukulu yopindulitsa.	4
+Pa tsiku la Sabata, ndimapita ku church kumva za Mulungu.	3
+Tsogolo langa ndililonse, koma ndikufuna kupanga zinthu zokwanira.	2
+Ndimakonda kupeza zinthu zatsopano m'mitengo ya kuno.	2
+Tsiku lina ndinali ku dziko lina ndipo ndinakumana ndi anthu ambiri omwe samandikonda.	1
+Nkhuku zathu zimapezeka m'munda wathu ndipo zimadzatsegula madziro ochuluka.	4
+Ana amakhala ndi mafuniro ambiri pagulu la sukulu.	1
+Ndimakonda kudya nsima ndi nyemba chifukwa zimandipatsa mphamvu.	4
+Ana athu amakhala ku sukulu yopindulitsa chifukwa chakusowa kwa zida.	5
+M'kachisi wathu kuli chitseko chomwe chinathima nthawi yamvula.	1
+Ndimakonda kumva nyimbo za kuno chifukwa zimandipatsa mphamvu.	3
+Chakudya chathu chomwe tikudya tsiku lililonse ndi nsima.	1
+Ndimakonda kumva malire a nyanja chifukwa zimandilemekeza.	1
+M'malire a nyanja, mphala zambiri zimapezeka.	2
+Ndimakonda kumva zinthu zomwe anthu ena amauza abale anga.	4
+Zida zathu zili ndi mawonekedwe ambiri omwe zimapezeka m'gulu.	4
+Nsima ndi nyama ndi chakudya chomwe ndimakonda.	2
+Foni yanga yagwa m'madzi ndipo pano sindikhoza kugwiritsa ntchito.	3
+Buku lomwe ndililonse ndilibe, ndalibe koma ndimakonda kulilonse.	3
+Jenda langa lililonse ndilibe, koma nthawi zina ndimakonda kuvina ndi ana.	1
+Dzina langa ndili ndi chinsinsi, koma abale anga amandifunsa nthawi zonse.	3
+Limodzi ndi abale anga, tidzakhala m'modzi m'masiku onse.	3
+Chakudya chathu cha masiku onse ndi nsima, koma tsiku lililonse timadya nyama.	3
+Eneka lathu lili ndi mitengo yambiri ndipo timapezeka zinthu zambiri zomwe timadya.	3
+Nsomba zathu zimapezeka m'nyanja yathu ndipo zimandipatsa chakudya chabwino.	2
+Ine ndimakonda kulima m'munda wathu chifukwa chakudya chake chimandipatsa mphamvu.	3
+Abambo anga amakhala ku mzinda, koma nthawi zina amapita ku mudzi kukonza mphala.	1
+Mbuyanga amakhala ku Malawi, koma nthawi zina amapita ku dziko lina kugwira ntchito.	1
+Olo ndikakhala ndili pamwamba pa phiri, ndimakonda kumva malire a mtsinje.	2
+Galimoto ya abambo anga ilibe mafuta ndipo pano tilibe kudzera.	1
+Kusukulu kwathu, ana amakhala akuchita maphunziro awo ndi mphamvu zonse.	1
+Radio yanga imapanga phokoso lopezeka ngati nyimbo ya kale.	2
+Utsogoleri wa banja lathu uli m'manja mwa abambo.	4
+Wakwithu wakhala atatu amapita ku sukulu yopindulitsa.	2
+Pamtengo, mphala zambiri zimakhala zikusewera.	3
+Hospitali yathu ili ndi mankhwala ochepa, choncho anthu ambiri amakwera galimoto kupita ku mzinda.	1
+Quota ya chakudya chathu ichuluka tsiku lililonse ndipo timakonda kudyera pamodzi.	3
+Sukulu ya ana athu ili pafupi ndi nyumba yathu, choncho amapita okha.	3
+Tidye chakudya chathu chonse chifukwa tili ndi njala.	3
+Vuto lomwe lili m'banja lathu ndi lokuti tili ndi ndalama zochepa.	2
+Yehova ndiye amene amanditsogolera m'moyo wanga.	2
+Zinthu zomwe ndimakonda ndi zomwe zimandipatsa chikondi.	2
+Mphamvu zanga zimandipatsa nthawi yonse ndikugwira ntchito.	2
+X-ray ya chipatala chathu yagwira ntchito yabwino nthawi zonse.	1
+Ana athu amakhala akuchita maphunziro awo ndi mphamvu zonse.	1
+Zikho zonse zimene zimachitika, zimanditsogolera kwa chiyambi chake.	2
+Chaka chonse chomwe tikukhala, tili ndi masiku ambiri omwe tikumana.	2
+Zinthu zonse zimene ndimapanga, zimanditsogolera kwa Mulungu.	4
+Pa nthawi yake, ndimakonda kumva malonjezo ambiri.	2
+Kwa anthu onse omwe ndimadziwa, ndimakonda kutumikira Mulungu.	1
+Nthawi zonse zimene zikuchitika, ndimakonda kuganiza zambiri.	2
+Pa maso pa njovu, ndimakonda kumva mawu ambiri.	1
+Kumbuyo kwa m'mene tikukhala, kuli dzanja lomwe limatenga nthawi yonse.	2
+Nthawi zina ndimakonda kupita ku malo ambiri ndi abale anga.	1
+M'masiku a mvula, mizimu yathu imasinthika koma tikhoza kupitiriza kugwira ntchito.	1
+Nthawi zina tidzakhala pa mtendere pamene tikukonda Mulungu.	6
+Njira zonse zimene tikumakwera zimapitiliza kuchoka kwa mtima.	6
+Zinthu zimene tikuona pa TV zimandipatsa zoona zambiri.	5
+Nkhaza zanga zonse zikachitika, ndimakambirana ndi abambo anga.	5
+Ndalama zanga zonse ndazigulitsa kuti ndipange zakudya kwa ana anga.	1
+M'mudzi mwa ife, kulibe magetsi koma timakonda kuphika chakudya pa moto.	1
+Nthawi zina ndimakonda kumva nyimbo za kale chifukwa zimandipatsa zoona.	2
+Wosuta amene amapita ku chipatala amapeza mankhwala amene akufunika.	2
+Zosuta zimene zimachitika m'moyo wanga zimanditsogolera kwa Mulungu.	2
+Pantawi ya mvula, nsalu yathu imadzadza madzi ndipo amene amakhala pansi amavulika.	6
+Nthawi zina ndimakonda kupita ku malo ambiri ndi abiti anga.	2
+Mphatso zonse zimene ndapatsidwa ndi zomwe zimandipatsa chikondi.	1
+Kwa anthu onse omwe ndimadziwa, ndimakonda kutsatira chikondi chawo.	1
+Pa maso pa njovu, ndimakonda kuganiza zambiri.	1
+Pa nthawi yake, ndimakonda kugwiritsa ntchito mawu anga.	1
+Mphatso zonse zimene ndapatsidwa, ndi zomwe zimandipatsa chikondi.	1
+Tili ndi maula ambiri m'minda yathu, choncho timapata chakudya chabwino.	1
+Phunziro lomwe ndinalandira m'banja langa ndilothandizana nthawi zonse.	1

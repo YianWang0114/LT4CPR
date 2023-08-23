@@ -1,200 +1,200 @@
-Uli ku ntemba? - Are you at the store?
-Naliikwata ichibanda. - I have a blanket.
-Niweme ifimbo? - Do you have wood?
-Uli pa chikolo? - Are you in school?
-Naliikwata icilanga. - I have a day.
-Niweme insamushi? - Do you have a mosquito?
-Uli ku nkoko? - Are you at the top?
-Naliikwata insukulu. - I have a school.
-Niweme ilyo? - Do you have that?
-Uli pa nsalu? - Are you under the umbrella?
-Naliikwata impiya. - I have money.
-Niweme ifinkubala? - Do you have butterflies?
-Uli ku mulonga? - Are you at the river?
-Naliikwata impapu. - I have paper.
-Niweme isinkwa? - Do you have bread?
-Uli ku chitima? - Are you on the train?
-Naliikwata insalu. - I have an umbrella.
-Niweme isanduku? - Do you have a box?
-Uli pa chikolwe? - Are you on the plane?
-Naliikwata imfuko. - I have a bag.
-Niweme uluse? - Do you have an advantage?
-Uli ku mutwe? - Are you in the head/mind?
-Naliikwata isamushi. - I have soap.
-Niweme ichimbusu? - Do you have a toilet?
-Uli ku luseko? - Are you at the hospital?
-Naliikwata isabi. - I have soap.
-Niweme ichikolwe? - Do you have a plane?
-Uli ku nkongole? - Are you in debt?
-Naliikwata inkanda. - I have a book.
-Niweme insukulu? - Do you have school?
-Uli ku ntemba? - Are you at the shop?
-Naliikwata intulo. - I have a dream.
-Niweme inzubo? - Do you have clothes?
-Uli ku nsansa? - Are you at the beach?
-Naliikwata impapu. - I have paper.
-Niweme impiya? - Do you have money?
-Uli pa nkholo? - Are you at the church?
-Naliikwata ichikolo. - I have a school.
-Niweme insambo? - Do you have a rope?
-Uli pa nchila? - Are you on the road?
-Naliikwata inkhata. - I have a cat.
-Niweme insimbi? - Do you have metal?
-Uli pa kabudula? - Are you at the end?
-Naliikwata ilyashi. - I have a story.
-Niweme uluseko? - Do you have a hospital?
-Uli ku kampeni? - Are you at the campaign?
-Naliikwata insukulu. - I have a school.
-Niweme inkanda? - Do you have a book?
-Uli pa nkandu? - Are you at the meeting?
-Naliikwata inkongole. - I have a loan.
-Niweme insala? - Are you hungry?
-Uli ku nchito? - Are you at work?
-Naliikwata intanda. - I have a garden.
-Niweme ichikolo? - Do you have a school?
-Uli ku chalo? - Are you in the village?
-Naliikwata insabi. - I have soap.
-Niweme ulwimbo? - Do you have a song?
-Uli ku kachema? - Are you on the farm?
-Naliikwata intemba. - I have a shop.
-Niweme isukulu? - Do you have a school?
-Uli pa nchila ya mulilo? - Are you on the way to the fire?
-Naliikwata insalu. - I have an umbrella.
-Niweme ilyo? - Do you have that?
-Uli ku bandi? - Are you with the others?
-Naliikwata ichimbusu. - I have a toilet.
-Niweme isamushi? - Do you have soap?
-Uli ku mwezi? - Are you under the moon?
-Naliikwata ichikolwe. - I have an airplane.
-Niweme intulo? - Do you have a dream?
-Uli pa chitima? - Are you on the train?
-Naliikwata uluse. - I have an advantage.
-Niweme inzubo? - Do you have clothes?
-Uli ku musika? - Are you in the market?
-Naliikwata impiya. - I have money.
-Niweme isabi? - Do you have soap?
-Uli pa nkholo? - Are you in church?
-Naliikwata intanda. - I have a garden.
-Niweme inkhwi? - Do you have beads?
-Uli ku mulilo? - Are you by the fire?
-Naliikwata ulwimbo. - I have a song.
-Niweme insala? - Are you hungry?
-Uli ku nkoko? - Are you at the top?
-Naliikwata insukulu. - I have a school.
-Niweme inkhata? - Do you have a cat?
-Uli ku kachema? - Are you at the farm?
-Naliikwata uluseko. - I have a hospital.
-Niweme isukulu? - Do you have a school?
-Uli ku nkanda? - Are you on the book?
-Naliikwata ichikolo. - I have a school.
-Niweme insimbi? - Do you have a metal?
-Uli ku nchito? - Are you at work?
-Naliikwata ichimbusu. - I have a toilet.
-Niweme isanduku? - Do you have a box?
-Uli ku ntemba? - Are you at the store?
-Naliikwata intemba. - I have a store.
-Niweme inkongole? - Do you have a debt?
-Uli ku luseko? - Are you at the hospital?
-Naliikwata insamushi. - I have a mosquito.
-Niweme isabi? - Do you have soap?
-Uli pa nkandu? - Are you at the meeting?
-Naliikwata ichikolwe. - I have a plane.
-Niweme ilyo? - Do you have that?
-Uli ku nchila? - Are you on the road?
-Naliikwata impapu. - I have a paper.
-Niweme intulo? - Do you have a dream?
-Uli pa kabudula? - Are you at the end?
-Naliikwata inkhwi. - I have beads.
-Niweme insukulu? - Do you have a school?
-Uli ku nsansa? - Are you at the beach?
-Naliikwata insimbi. - I have a metal.
-Niweme inzubo? - Do you have clothes?
-Uli pa nchila ya mulilo? - Are you on the way to the fire?
-Naliikwata inkhata. - I have a cat.
-Niweme ilyashi? - Do you have a story?
-Uli ku musika? - Are you at the market?
-Naliikwata ichikolwe. - I have an airplane.
-Niweme ichimbusu? - Do you have a toilet?
-Uli ku kampeni? - Are you at the campaign?
-Naliikwata uluse. - I have an advantage.
-Niweme isamushi? - Do you have soap?
-Uli ku nkholo? - Are you in church?
-Naliikwata ulwimbo. - I have a song.
-Niweme isukulu? - Do you have a school?
-Uli ku chalo? - Are you in the village?
-Naliikwata intanda. - I have a garden.
-Niweme inkanda? - Do you have a book?
-Uli pa chikolwe? - Are you on the airplane?
-Naliikwata uluseko. - I have a hospital.
-Niweme impiya? - Do you have money?
-Uli ku mulilo? - Are you by the fire?
-Naliikwata ichikolo. - I have a school.
-Niweme isanduku? - Do you have a box?
-Uli pa nkholo? - Are you in church?
-Naliikwata insambo. - I have a rope.
-Niweme isabi? - Do you have soap?
-Uli ku nkoko? - Are you at the top?
-Naliikwata inkhata. - I have a cat.
-Niweme ulwimbo? - Do you have a song?
-Uli pa chitima? - Are you on the train?
-Naliikwata ichimbusu. - I have a toilet.
-Niweme insukulu? - Do you have a school?
-Uli ku mulonga? - Are you at the river?
-Naliikwata inkongole. - I have a debt.
-Niweme insala? - Are you hungry?
-Uli ku musika? - Are you at the market?
-Naliikwata isabi. - I have soap.
-Niweme inkhwi? - Do you have beads?
-Uli ku kachema? - Are you at the farm?
-Naliikwata intulo. - I have a dream.
-Niweme ichikolwe? - Do you have an airplane?
-Uli ku nchila? - Are you on the road?
-Naliikwata insimbi. - I have metal.
-Niweme ilyo? - Do you have that?
-Uli ku nkholo? - Are you in church?
-Naliikwata inkhwi. - I have beads.
-Niweme insukulu? - Do you have a school?
-Uli ku nsansa? - Are you at the beach?
-Naliikwata isanduku. - I have a box.
-Niweme uluse? - Do you have an advantage?
-Uli ku chalo? - Are you in the village?
-Naliikwata insamushi. - I have a mosquito.
-Niweme intemba? - Do you have a store?
-Uli ku ntemba? - Are you at the store?
-Naliikwata ichikolo. - I have a school.
-Niweme insala? - Are you hungry?
-Uli ku bandi? - Are you with the others?
-Naliikwata ulwimbo. - I have a song.
-Niweme insambo? - Do you have a rope?
-Uli ku nkanda? - Are you on the book?
-Naliikwata insalu. - I have an umbrella.
-Niweme isabi? - Do you have soap?
-Uli ku nkoko? - Are you at the top?
-Naliikwata inkhata. - I have a cat.
-Niweme ichikolwe? - Do you have an airplane?
-Uli ku musika? - Are you at the market?
-Naliikwata impapu. - I have paper.
-Niweme uluseko? - Do you have a hospital?
-Uli ku luseko? - Are you at the hospital?
-Naliikwata intanda. - I have a garden.
-Niweme isukulu? - Do you have a school?
-Uli pa nkandu? - Are you at the meeting?
-Naliikwata insamushi. - I have soap.
-Niweme inkanda? - Do you have a book?
-Uli ku nchito? - Are you at work?
-Naliikwata ichimbusu. - I have a toilet.
-Niweme inzubo? - Do you have clothes?
-Uli ku nkholo? - Are you in church?
-Naliikwata ichikolo. - I have a school.
-Niweme ilyashi? - Do you have a story?
-Uli pa kabudula? - Are you at the end?
-Naliikwata inkongole. - I have a loan.
-Niweme insambo? - Do you have a rope?
-Uli ku mulonga? - Are you at the river?
-Naliikwata intulo. - I have a dream.
-Niweme ulwimbo? - Do you have a song?
-Uli pa chikolwe? - Are you on the airplane?
-Naliikwata ichimbusu. - I have a toilet.
-Niweme insukulu? - Do you have a school?
-Uli ku chalo? - Are you in the village?
-Naliikwata inkhwi. - I have beads.
+Uli ku ntemba?
+Naliikwata ichibanda.
+Niweme ifimbo?
+Uli pa chikolo?
+Naliikwata icilanga.
+Niweme insamushi?
+Uli ku nkoko?
+Naliikwata insukulu.
+Niweme ilyo?
+Uli pa nsalu?
+Naliikwata impiya.
+Niweme ifinkubala?
+Uli ku mulonga?
+Naliikwata impapu.
+Niweme isinkwa?
+Uli ku chitima?
+Naliikwata insalu.
+Niweme isanduku?
+Uli pa chikolwe?
+Naliikwata imfuko.
+Niweme uluse?
+Uli ku mutwe?
+Naliikwata isamushi.
+Niweme ichimbusu?
+Uli ku luseko?
+Naliikwata isabi.
+Niweme ichikolwe?
+Uli ku nkongole?
+Naliikwata inkanda.
+Niweme insukulu?
+Uli ku ntemba?
+Naliikwata intulo.
+Niweme inzubo?
+Uli ku nsansa?
+Naliikwata impapu.
+Niweme impiya?
+Uli pa nkholo?
+Naliikwata ichikolo.
+Niweme insambo?
+Uli pa nchila?
+Naliikwata inkhata.
+Niweme insimbi?
+Uli pa kabudula?
+Naliikwata ilyashi.
+Niweme uluseko?
+Uli ku kampeni?
+Naliikwata insukulu.
+Niweme inkanda?
+Uli pa nkandu?
+Naliikwata inkongole.
+Niweme insala?
+Uli ku nchito?
+Naliikwata intanda.
+Niweme ichikolo?
+Uli ku chalo?
+Naliikwata insabi.
+Niweme ulwimbo?
+Uli ku kachema?
+Naliikwata intemba.
+Niweme isukulu?
+Uli pa nchila ya mulilo?
+Naliikwata insalu.
+Niweme ilyo?
+Uli ku bandi?
+Naliikwata ichimbusu.
+Niweme isamushi?
+Uli ku mwezi?
+Naliikwata ichikolwe.
+Niweme intulo?
+Uli pa chitima?
+Naliikwata uluse.
+Niweme inzubo?
+Uli ku musika?
+Naliikwata impiya.
+Niweme isabi?
+Uli pa nkholo?
+Naliikwata intanda.
+Niweme inkhwi?
+Uli ku mulilo?
+Naliikwata ulwimbo.
+Niweme insala?
+Uli ku nkoko?
+Naliikwata insukulu.
+Niweme inkhata?
+Uli ku kachema?
+Naliikwata uluseko.
+Niweme isukulu?
+Uli ku nkanda?
+Naliikwata ichikolo.
+Niweme insimbi?
+Uli ku nchito?
+Naliikwata ichimbusu.
+Niweme isanduku?
+Uli ku ntemba?
+Naliikwata intemba.
+Niweme inkongole?
+Uli ku luseko?
+Naliikwata insamushi.
+Niweme isabi?
+Uli pa nkandu?
+Naliikwata ichikolwe.
+Niweme ilyo?
+Uli ku nchila?
+Naliikwata impapu.
+Niweme intulo?
+Uli pa kabudula?
+Naliikwata inkhwi.
+Niweme insukulu?
+Uli ku nsansa?
+Naliikwata insimbi.
+Niweme inzubo?
+Uli pa nchila ya mulilo?
+Naliikwata inkhata.
+Niweme ilyashi?
+Uli ku musika?
+Naliikwata ichikolwe.
+Niweme ichimbusu?
+Uli ku kampeni?
+Naliikwata uluse.
+Niweme isamushi?
+Uli ku nkholo?
+Naliikwata ulwimbo.
+Niweme isukulu?
+Uli ku chalo?
+Naliikwata intanda.
+Niweme inkanda?
+Uli pa chikolwe?
+Naliikwata uluseko.
+Niweme impiya?
+Uli ku mulilo?
+Naliikwata ichikolo.
+Niweme isanduku?
+Uli pa nkholo?
+Naliikwata insambo.
+Niweme isabi?
+Uli ku nkoko?
+Naliikwata inkhata.
+Niweme ulwimbo?
+Uli pa chitima?
+Naliikwata ichimbusu.
+Niweme insukulu?
+Uli ku mulonga?
+Naliikwata inkongole.
+Niweme insala?
+Uli ku musika?
+Naliikwata isabi.
+Niweme inkhwi?
+Uli ku kachema?
+Naliikwata intulo.
+Niweme ichikolwe?
+Uli ku nchila?
+Naliikwata insimbi.
+Niweme ilyo?
+Uli ku nkholo?
+Naliikwata inkhwi.
+Niweme insukulu?
+Uli ku nsansa?
+Naliikwata isanduku.
+Niweme uluse?
+Uli ku chalo?
+Naliikwata insamushi.
+Niweme intemba?
+Uli ku ntemba?
+Naliikwata ichikolo.
+Niweme insala?
+Uli ku bandi?
+Naliikwata ulwimbo.
+Niweme insambo?
+Uli ku nkanda?
+Naliikwata insalu.
+Niweme isabi?
+Uli ku nkoko?
+Naliikwata inkhata.
+Niweme ichikolwe?
+Uli ku musika?
+Naliikwata impapu.
+Niweme uluseko?
+Uli ku luseko?
+Naliikwata intanda.
+Niweme isukulu?
+Uli pa nkandu?
+Naliikwata insamushi.
+Niweme inkanda?
+Uli ku nchito?
+Naliikwata ichimbusu.
+Niweme inzubo?
+Uli ku nkholo?
+Naliikwata ichikolo.
+Niweme ilyashi?
+Uli pa kabudula?
+Naliikwata inkongole.
+Niweme insambo?
+Uli ku mulonga?
+Naliikwata intulo.
+Niweme ulwimbo?
+Uli pa chikolwe?
+Naliikwata ichimbusu.
+Niweme insukulu?
+Uli ku chalo?
+Naliikwata inkhwi.

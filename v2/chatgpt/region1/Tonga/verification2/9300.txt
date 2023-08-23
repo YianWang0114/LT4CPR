@@ -40,14 +40,14 @@ Zambia
 Zambia
 1. Bemba
 2. Ndebele/Zulu
-3. Bemba
-4. Nyanja/Chewa
+3. Tonga
+4. Bemba
 5. Tonga
-6. Bemba
-7. Bemba
+6. Tonga
+7. Tonga
 8. Bemba
 9. Tonga
-10. Bemba
+10. Tonga
 1. Bemba
 2. Chichewa
 3. Bemba

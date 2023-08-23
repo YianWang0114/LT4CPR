@@ -25,7 +25,7 @@
 5. Bemba
 6. Tonga
 7. Bemba
-8. Bemba
+8. Tonga
 9. Bemba
 10. Bemba/Tonga
 Zulu
@@ -57,7 +57,7 @@ Bemba
 7. Bemba
 8. Chichewa
 9. Tonga
-10. Tonga
+10. Bemba
 1. Bemba
 2. Chichewa
 3. English
