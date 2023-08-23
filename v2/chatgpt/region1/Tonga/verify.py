@@ -9,7 +9,7 @@ from pathlib import Path
 directory = Path.cwd()
 files = os.listdir(str(directory)+'/verification')
 result = []
-lang = ['Bemba', 'Icibemba', 'ChiBemba', 'Cibemba', 'Chiwemba', 'Ichibemba']
+lang = ['Tonga', 'Chitonga', 'Zambezi']
 for filename in os.listdir(str(directory)+'/verification'):
     with open(str(directory)+'/verification/'+filename) as f:
         lines = f.readlines()

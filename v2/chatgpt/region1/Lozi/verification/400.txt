@@ -1,0 +1,200 @@
+The language of each sentence is Lozi.
+The language of each sentence is Lozi.
+The language of each sentence is Lozi.
+The language of each sentence is Lozi.
+The language of each sentence is Lozi.
+The language of each sentence is Lozi.
+The language of each sentence is Lozi.
+The language of each sentence is Lozi.
+The language of each sentence is Lozi.
+The language of each sentence is Lozi.
+1. Lozi
+2. Tshiluba
+3. Lozi
+4. Lozi
+5. Tshiluba
+6. Bemba/Nyanja
+7. Lozi
+8. Lozi
+9. Tshiluba
+10. Bemba/Nyanja
+1. Tshiluba
+2. Tswana
+3. Lunda
+4. Bemba
+5. Chichewa
+6. Tonga/Luvale
+7. Lunda
+8. Lozi
+9. Tswana
+10. Tonga
+1. Bemba
+2. Bemba
+3. Bemba
+4. Lozi
+5. Bemba/Lozi
+6. Tswana
+7. Lozi
+8. Tshiluba
+9. Lozi
+10. Bemba
+1. Tonga
+2. Tswana
+3. Luba-Katanga
+4. Lozi
+5. Lunda
+6. Tonga
+7. Luba-Katanga
+8. Luvale
+9. Luhya
+10. Lozi
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+1. Bemba
+2. Tswana
+3. Lunda
+4. Tswana/Lingala
+5. Bemba
+6. Lozi
+7. Luvale
+8. Bemba
+9. Tswana/Lingala
+10. Lunda
+The language of each sentence is Lozi.
+The language of each sentence is Lozi.
+The language of each sentence is Lozi.
+The language of each sentence is Lozi.
+The language of each sentence is Lozi.
+The language of each sentence is Lozi.
+The language of each sentence is Lozi.
+The language of each sentence is Lozi.
+The language of each sentence is Lozi.
+The language of each sentence is Lozi.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+1. L1 - Bemba, L2 - Arabic
+2. Tshivenda
+3. Lozi
+4. Tshiluba
+5. Luvale
+6. Tonga
+7. Lozi
+8. Tshivenda
+9. Bemba
+10. Tshiluba
+1. Bemba
+2. Lunda
+3. Lozi
+4. Kikuyu
+5. Tswana
+6. Tonga/Lingala
+7. Luvale
+8. Lozi
+9. Tonga
+10. Luhya
+All 10 sentences are in the Bantu language family, specifically in various dialects of the Bemba language spoken in Zambia.
+All 10 sentences are in the Bantu language family, specifically in various dialects of the Bemba language spoken in Zambia.
+All 10 sentences are in the Bantu language family, specifically in various dialects of the Bemba language spoken in Zambia.
+All 10 sentences are in the Bantu language family, specifically in various dialects of the Bemba language spoken in Zambia.
+All 10 sentences are in the Bantu language family, specifically in various dialects of the Bemba language spoken in Zambia.
+All 10 sentences are in the Bantu language family, specifically in various dialects of the Bemba language spoken in Zambia.
+All 10 sentences are in the Bantu language family, specifically in various dialects of the Bemba language spoken in Zambia.
+All 10 sentences are in the Bantu language family, specifically in various dialects of the Bemba language spoken in Zambia.
+All 10 sentences are in the Bantu language family, specifically in various dialects of the Bemba language spoken in Zambia.
+All 10 sentences are in the Bantu language family, specifically in various dialects of the Bemba language spoken in Zambia.
+1. Twa (Zambia)
+2. Tswana (Botswana, South Africa, Zimbabwe)
+3. Tonga (Zambia, Zimbabwe)
+4. Lunda (Zambia, Angola, Democratic Republic of Congo)
+5. Bemba (Zambia)
+6. Luvale (Zambia, Angola)
+7. Kaonde (Zambia)
+8. Luyana (Zambia)
+9. Lozi (Zambia, Namibia, Botswana)
+10. Shona
+1. Bemba
+2. Bemba
+3. Bemba
+4. Lozi
+5. Bemba
+6. Bemba
+7. Tonga
+8. Lozi
+9. Tonga/Lozi
+10. Bemba
+1. Twa
+2. Lunda
+3. Tonga/Lingala
+4. Lozi
+5. Tswana
+6. Luvale
+7. Twa
+8. Tonga
+9. Luvale
+10. Lozi
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+The language of each sentence is not specified.
+1. Bemba
+2. Tonga
+3. Tshiluba
+4. Bemba
+5. Setswana
+6. Lozi
+7. Bemba
+8. Tonga
+9. Tonga
+10. Tonga
+1. Bemba
+2. Tonga
+3. Bemba
+4. Lozi
+5. Tonga
+6. Tswana
+7. Tonga
+8. Lozi
+9. Bemba
+10. Tonga
+1. Lunda 
+2. Lozi 
+3. Lunda 
+4. Luyana 
+5. Bemba/Lingala 
+6. Luyana 
+7. Tonga 
+8. Bemba 
+9. Lunda 
+10. Lozi
+1. Lunda 
+2. Bemba 
+3. Lozi 
+4. Tonga 
+5. Kaonde 
+6. Luvale 
+7. Tumbuka 
+8. Luyana 
+9. Luvale 
+10. Luchazi
